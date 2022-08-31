@@ -9,7 +9,7 @@
 
 [![](https://img.shields.io/badge/label-message-color?logo=github)](https://github.com/arthurchiquet/Wine_recommender_api)
 
-<iframe src='images/Wine Recommender_TFIDF.pptx' width='100%' height='600px' frameborder='0'>
+<iframe src='[images/Wine Recommender_TFIDF.pptx](https://docs.google.com/presentation/d/1dIT2wctuZZZ3YjCmDTRw6WffkXINgpYw/edit?usp=sharing&ouid=106029294754160226706&rtpof=true&sd=true)' width='100%' height='600px' frameborder='0'>
 
  
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
