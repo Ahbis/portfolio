@@ -5,6 +5,8 @@
 ### My projects
 
 [Project 1 Wine Recommender](/sample_page)
+
+
 [![](https://img.shields.io/badge/label-message-color?logo=github)](https://github.com/arthurchiquet/Wine_recommender_api)
 
 
