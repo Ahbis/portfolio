@@ -3,16 +3,9 @@ logo: "/images/profil pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Business Analyst and machine learning enthousiast, I enjoy leveraging growth through data, as well as being part of R&D projects.
   <br><br>
-  <ul>
-  <li>- bachelor of Mathemtics : La sorbonne université</li>
-  <li>- Business School: SKEMA</li>
-  <li>- Data Science certification : MIT</li>
-  </ul>
-  currently teaching Data Science at LeWagon
-  
+  currently teaching Data Science @ LeWagon
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
 
-
-- <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
