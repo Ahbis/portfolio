@@ -47,7 +47,7 @@ This project was based on the Shinkansen Bullet Train in Japan, and passengers e
 The goal of the project was to predict whether a passenger was satisfied or not considering his/her overall experience of traveling on the Shinkansen Bullet Train. This project was part of the 2022 Hackaton hosted by MIT IDSS. This more business oriented project is fully available on GITHUB.
 
 
-<img src="images/xgboost_accuracy"/>
+<img src="images/xgboost_accuracy.png"/>
 
 
 - [Project 1 Title](http://example.com/)
