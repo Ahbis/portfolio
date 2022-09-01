@@ -5,11 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   currently teaching Data Science @ LeWagon
   <ul>
-  <li>- bachelor of Mathemtics : La sorbonne université</li>
-  <li>- Business School: SKEMA</li>
-  <li>- Data Science certification : MIT</li>
+  <li> Bachelor of Mathemtics : La sorbonne université</li>
+  <li> Business School: SKEMA</li>
+  <li> Data Science certification : MIT</li>
   </ul>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/brahim-alami-hassani/">View My LinkedIn Profile</a> 
   
 
 theme: jekyll-theme-minimal
