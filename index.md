@@ -4,7 +4,7 @@
 
 ### Wine recommender powered by NLP
 
-[Which wine is made for you?](http://google-your-wine.herokuapp.com/)
+[Unsupervised Learning / NLP / Tensorflow / Data Engineering](http://google-your-wine.herokuapp.com/)
 
 
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/arthurchiquet/Wine_recommender_api)
@@ -22,18 +22,10 @@ solution is hosted and free to use : [here](http://google-your-wine.herokuapp.co
 Testing of the solution has been made throught T-SNE visualization : [here](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/arthurchiquet/7a34ec908855cd6729d15a71ed25a812/raw/7f7468821b0a5d4e77f6fe7d29245ae159ddf388/Embeddings)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Attrition and customer satisfaction for Shinkansen
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Prediction / Machine Learning / Neural Networks](/pdf/sample_presentation.pdf)
 
 
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/Ahbis/shinkanzen)
@@ -48,6 +40,26 @@ The goal of the project was to predict whether a passenger was satisfied or not 
 
 
 <img src="images/xgboost_accuracy.png?raw=true"/>
+
+
+---
+
+### Attrition and customer satisfaction for Shinkansen
+
+[Data analysis / regression](/pdf/sample_presentation.pdf)
+
+
+[![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/Ahbis/shinkanzen)
+
+<img src="images/importance_features.png?raw=true"/>
+
+Olist is a leading e-commerce service that connects merchants to main marketplaces in Brazil. They provide a wide range of offers including inventory management, dealing with reviews and customer contacts to logistic services.
+
+The dataset consists of ~100k orders from 2016 and 2018 that were made on the Olist store, available as 9 csv files. Recommandations have been made, concerning sellers and products sold, on how to increase customer satisfaction (so as to increase profit margin) while maintaining a healthy order volume.
+
+
+
+<img src="images/olist.png?raw=true"/>
 
 
 - [Project 1 Title](http://example.com/)
