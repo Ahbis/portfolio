@@ -4,7 +4,7 @@
 
 ### Wine recommender powered by NLP
 
-[Unsupervised Learning / NLP / Tensorflow / Data Engineering](http://google-your-wine.herokuapp.com/)
+[Unsupervised Learning / NLP / Tensorflow / Data Engineering]
 
 
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/arthurchiquet/Wine_recommender_api)
@@ -51,7 +51,6 @@ The goal of the project was to predict whether a passenger was satisfied or not 
 
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/Ahbis/shinkanzen)
 
-<img src="images/importance_features.png?raw=true"/>
 
 Olist is a leading e-commerce service that connects merchants to main marketplaces in Brazil. They provide a wide range of offers including inventory management, dealing with reviews and customer contacts to logistic services.
 
