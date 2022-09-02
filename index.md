@@ -10,6 +10,7 @@ Unsupervised Learning / NLP / Tensorflow / Data Engineering
 
 <iframe src="https://skema-my.sharepoint.com/personal/brahim_alamihassani_skema_edu/_layouts/15/Doc.aspx?sourcedoc={8fe1a2d2-0de4-49ce-a3fa-08816aab0f4a}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=0" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
+
 <div style="text-align: justify">
 
 
@@ -20,7 +21,11 @@ solution is hosted and free to use : [here](http://google-your-wine.herokuapp.co
 
 
 Testing of the solution has been made throught T-SNE visualization : [here](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/arthurchiquet/7a34ec908855cd6729d15a71ed25a812/raw/7f7468821b0a5d4e77f6fe7d29245ae159ddf388/Embeddings)
-<div>
+
+  
+ <div>
+   
+ 
 ---
 
 ### Attrition and customer satisfaction for Shinkansen
