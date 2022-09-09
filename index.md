@@ -45,7 +45,7 @@ The goal of the project was to predict whether a passenger was satisfied or not 
 </div>
 ---
 
-### Attrition and customer satisfaction for Shinkansen
+### Attrition and customer satisfaction for OLIST
 
 [Data analysis / regression](/pdf/sample_presentation.pdf)
 
