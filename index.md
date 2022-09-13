@@ -7,7 +7,7 @@
 Unsupervised Learning / NLP / Tensorflow / Data Engineering
 
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/arthurchiquet/Wine_recommender_api)
-<iframe src="https://skema-my.sharepoint.com/personal/brahim_alamihassani_skema_edu/_layouts/15/Doc.aspx?sourcedoc={8fe1a2d2-0de4-49ce-a3fa-08816aab0f4a}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=0" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="Wine Recommender_TFIDF.pptx" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 
 <div style="text-align: justify">This project is a wine recommender, based on user tastes, expressed either through other wines, or through description. It is therefore an NLP based machine learning solution. Unsupervised learning was used to clusterise 120K vectorised wine reviews. Using distance computing, nearest wines are found. 
