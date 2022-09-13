@@ -31,6 +31,7 @@ NYC Taxifare is a an API and web interface able to predict with very high accura
 
 solution is hosted and free to use : [here](https://ny-taxifare-ahbis.herokuapp.com/)
 API documentation : [here](https://image-taxifare-mbkpe2fzia-ew.a.run.app/docs)
+</div>
 ---
 
 ### Attrition and customer satisfaction for Shinkansen
