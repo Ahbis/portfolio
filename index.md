@@ -17,9 +17,9 @@ Unsupervised Learning / NLP / Tensorflow / Data Engineering
 
     
   </div>
-
-Testing of the solution has been made throught T-SNE visualization : [here](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/arthurchiquet/7a34ec908855cd6729d15a71ed25a812/raw/7f7468821b0a5d4e77f6fe7d29245ae159ddf388/Embeddings)
 </details>
+Testing of the solution has been made throught T-SNE visualization : [here](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/arthurchiquet/7a34ec908855cd6729d15a71ed25a812/raw/7f7468821b0a5d4e77f6fe7d29245ae159ddf388/Embeddings)
+
 
 
 
