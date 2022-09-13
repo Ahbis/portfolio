@@ -92,6 +92,29 @@ Our goal is to track the location (and velocity) of a moving object, e.g. a ball
 
 
 --- 
+### Stock Portfolio Optimization
+
+Networking / Graphical Modelling
+
+
+[![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/Ahbis/notebooks/blob/master/Network_Stock_Portfolio_Optimization.ipynb)
+
+
+<img src="images/network-portfolio.png?raw=true"/>
+  
+<div style="text-align: justify">
+Active investing in the asset management industry aims to beat the stock market’s average returns, for which portfolio managers track a particular index and try to beat that index by creating their own portfolios.
+
+Portfolio construction involves selection of stocks that have a higher probability of giving better returns in comparison to the tracking index, like S&P 500. In this project, we aim to use the concept of Network Analysis to select a basket of stocks and create two portfolios. those portfolio will then be simulated by investing a certain amount, keeping the portfolio for an entire year, it will then be compared against the S&P 500 index.
+
+
+</div>
+
+<img src="images/portfolio.png?raw=true"/>
+
+
+
+--- 
 
 ### Attrition and customer satisfaction for OLIST
 
@@ -110,17 +133,8 @@ The dataset consists of ~100k orders from 2016 and 2018 that were made on the Ol
 <img src="images/olist.png?raw=true"/>
 </div>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
