@@ -5,19 +5,25 @@
 ### Wine recommender powered by NLP
 
 Unsupervised Learning / NLP / Tensorflow / Data Engineering
+
+
+[![](https://img.shields.io/badge/Website-API-blueviolet)](http://google-your-wine.herokuapp.com/)
 <details>
 
 
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5SeuAsFeZkL-cFsQwQYTT8vFVD5o5Zg6BHARVBQMggn5YrMxQPIGs43PnkEYJgGMcTVKTsPTpF8aB/embed? start=false&loop=false&delayms=15000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-  <div style="text-align: justify">This project is a wine recommender, based on user tastes, expressed either through other wines, or through description. It is therefore an NLP based machine learning solution. Unsupervised learning was used to clusterise 120K vectorised wine reviews. Using distance computing, nearest wines are found. 
+  <div style="text-align: justify">This project is a wine recommender, based on user tastes, expressed either through other wines, or through description. It is therefore an NLP based machine learning solution. Unsupervised learning was used to clusterise 120K vectorised wine reviews. Using distance computing, nearest wines are found.
+
+    
   </div>
-</details>
-
-solution is hosted and free to use : [here](http://google-your-wine.herokuapp.com/)
-
 
 Testing of the solution has been made throught T-SNE visualization : [here](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/arthurchiquet/7a34ec908855cd6729d15a71ed25a812/raw/7f7468821b0a5d4e77f6fe7d29245ae159ddf388/Embeddings)
+</details>
+
+
+
+
 
 
 ---
@@ -25,6 +31,10 @@ Testing of the solution has been made throught T-SNE visualization : [here](http
 ### NYC Taxifare API
 
 Neural networks / API building / Docker / Google Cloud
+
+
+[![](https://img.shields.io/badge/Website-API-blueviolet)](https://ny-taxifare-ahbis.herokuapp.com/)
+[![](https://img.shields.io/badge/Doc-API-informational)](https://image-taxifare-mbkpe2fzia-ew.a.run.app/docs)
 <details>
 
   <div style="text-align: justify">
@@ -34,9 +44,8 @@ Neural networks / API building / Docker / Google Cloud
   NYC Taxifare is a an API and web interface able to predict with very high accuracy, the price of taxi rides in New-York. the platform uses google cloud compute and MLflow for training, Docker and FastAPI. Lifecircle is automated through Prefect and interface is built on Heroku. The model is training neural networks over 500K entries. MAE is around 1$.
   </div>
 </details>
- 
-solution is hosted and free to use : [here](https://ny-taxifare-ahbis.herokuapp.com/)
-API documentation : [here](https://image-taxifare-mbkpe2fzia-ew.a.run.app/docs)
+
+
  
 
 
