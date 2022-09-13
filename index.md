@@ -61,7 +61,10 @@ Image-recognition / Neural Networks
 
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/Ahbis/notebooks/blob/master/street_digits.ipynb)
 <div style="text-align: justify">
-<img src="images/streetdigit.jpeg?raw=true"/>
+
+  
+  
+ <img src="images/streetdigit.jpeg?raw=true"/>
 
 
 The SVHN dataset contains over 600,000 labeled digits cropped from street-level photos. It is one of the most popular image recognition datasets. It has been used in neural networks created by Google to improve the map quality by automatically transcribing the address numbers from a patch of pixels. The transcribed number with a known street address helps pinpoint the location of the building it represents.
