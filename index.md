@@ -6,10 +6,8 @@
 
 Unsupervised Learning / NLP / Tensorflow / Data Engineering
 
-<iframe src="Wine Recommender_TFIDF.html/Wine_Recommender_TFIDF.html" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5SeuAsFeZkL-cFsQwQYTT8vFVD5o5Zg6BHARVBQMggn5YrMxQPIGs43PnkEYJgGMcTVKTsPTpF8aB/embed?start=false&loop=false&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5SeuAsFeZkL-cFsQwQYTT8vFVD5o5Zg6BHARVBQMggn5YrMxQPIGs43PnkEYJgGMcTVKTsPTpF8aB/embed?start=false&loop=false&delayms=15000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <div style="text-align: justify">This project is a wine recommender, based on user tastes, expressed either through other wines, or through description. It is therefore an NLP based machine learning solution. Unsupervised learning was used to clusterise 120K vectorised wine reviews. Using distance computing, nearest wines are found. 
 </div>
