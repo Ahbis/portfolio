@@ -17,14 +17,25 @@ solution is hosted and free to use : [here](http://google-your-wine.herokuapp.co
 
 Testing of the solution has been made throught T-SNE visualization : [here](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/arthurchiquet/7a34ec908855cd6729d15a71ed25a812/raw/7f7468821b0a5d4e77f6fe7d29245ae159ddf388/Embeddings)
 
+---
+
+### NYC Taxifare API
+
+Neural networks / API building / Docker / Google Cloud
+
+<div style="text-align: justify">
+<img src="images/NYC.png?raw=true"/>
 
 
+NYC Taxifare is a an API and web interface able to predict with very high accuracy, the price of taxi rides in New-York. the platform uses google cloud compute and MLflow for training, Docker and FastAPI. Lifecircle is automated through Prefect and interface is built on Heroku. The model is training neural networks over 500K entries. MAE is around 1$.
 
+solution is hosted and free to use : [here](https://ny-taxifare-ahbis.herokuapp.com/)
+API documentation : [here](https://image-taxifare-mbkpe2fzia-ew.a.run.app/docs)
 ---
 
 ### Attrition and customer satisfaction for Shinkansen
 
-[Prediction / Machine Learning / Neural Networks](/pdf/sample_presentation.pdf)
+Prediction / Machine Learning / Neural Networks
 
 
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/Ahbis/shinkanzen)
@@ -45,7 +56,7 @@ The goal of the project was to predict whether a passenger was satisfied or not 
 
 ### Attrition and customer satisfaction for OLIST
 
-[Data analysis / regression](/pdf/sample_presentation.pdf)
+Data analysis / regression
 
 
 <div style="text-align: justify">
