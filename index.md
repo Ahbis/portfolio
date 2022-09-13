@@ -83,7 +83,6 @@ Kalman Filters
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/Ahbis/notebooks/blob/master/KALMAN+FILTER-3D+Location+Tracking.ipynb)
 
   
-<img src="images/street-number.jpeg?raw=true"/>
 <div style="text-align: justify">
 Our goal is to track the location (and velocity) of a moving object, e.g. a ball, in a 3-dimensional space. We will allow gravity to act on the ball and the initial position and velocities are assumed to be known. We will be using noisy location estimates using a (simulated) sensor. The objective is to estimate the true location (and velocity) of the ball in 3D space
 </div>
