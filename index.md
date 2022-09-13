@@ -6,6 +6,7 @@
 
 Unsupervised Learning / NLP / Tensorflow / Data Engineering
 
+<details>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5SeuAsFeZkL-cFsQwQYTT8vFVD5o5Zg6BHARVBQMggn5YrMxQPIGs43PnkEYJgGMcTVKTsPTpF8aB/embed?start=false&loop=false&delayms=15000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -16,12 +17,14 @@ solution is hosted and free to use : [here](http://google-your-wine.herokuapp.co
 
 
 Testing of the solution has been made throught T-SNE visualization : [here](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/arthurchiquet/7a34ec908855cd6729d15a71ed25a812/raw/7f7468821b0a5d4e77f6fe7d29245ae159ddf388/Embeddings)
+<details>
 
 ---
 
 ### NYC Taxifare API
 
 Neural networks / API building / Docker / Google Cloud
+<details>
 
 <div style="text-align: justify">
 <img src="images/NYC.png?raw=true"/>
@@ -32,6 +35,8 @@ NYC Taxifare is a an API and web interface able to predict with very high accura
 solution is hosted and free to use : [here](https://ny-taxifare-ahbis.herokuapp.com/)
 API documentation : [here](https://image-taxifare-mbkpe2fzia-ew.a.run.app/docs)
 </div>
+<details>
+
 ---
 
 ### Attrition and customer satisfaction for Shinkansen
@@ -40,6 +45,8 @@ Prediction / Machine Learning / Neural Networks
 
 
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/Ahbis/shinkanzen)
+ <details>
+
 <div style="text-align: justify">
 <img src="images/importance_features.png?raw=true"/>
 
@@ -53,6 +60,8 @@ The goal of the project was to predict whether a passenger was satisfied or not 
 <img src="images/xgboost_accuracy.png?raw=true"/>
 
 </div>
+<details>
+
 ---
 ### Street View Housing Number Digit Recognition
 
@@ -60,7 +69,7 @@ Image-recognition / Neural Networks
 
 
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/Ahbis/notebooks/blob/master/street_digits.ipynb)
-
+<details>
   
 <img src="images/street-number.jpeg?raw=true"/>
 <div style="text-align: justify">
@@ -72,6 +81,7 @@ The objective is to build a CNN tant can recognize the digits.
 <img src="images/digits_confusion.png?raw=true"/>
 
 </div>
+<details>
 
 ---
 
@@ -81,6 +91,7 @@ Kalman Filters
 
 
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/Ahbis/notebooks/blob/master/KALMAN+FILTER-3D+Location+Tracking.ipynb)
+<details>
 
   
 <div style="text-align: justify">
@@ -89,6 +100,7 @@ Our goal is to track the location (and velocity) of a moving object, e.g. a ball
 
 <img src="images/kalman.png?raw=true"/>
 
+<details>
 
 
 --- 
@@ -99,6 +111,7 @@ Networking / Graphical Modelling
 
 [![](https://img.shields.io/badge/Github-code-color?logo=github)](https://github.com/Ahbis/notebooks/blob/master/Network_Stock_Portfolio_Optimization.ipynb)
 
+<details>
 
 <img src="images/network-portfolio.png?raw=true"/>
   
@@ -112,6 +125,7 @@ Portfolio construction involves selection of stocks that have a higher probabili
 
 <img src="images/portfolio.png?raw=true"/>
 
+<details>
 
 
 --- 
@@ -119,7 +133,7 @@ Portfolio construction involves selection of stocks that have a higher probabili
 ### Attrition and customer satisfaction for OLIST
 
 Data analysis / regression
-
+<details>
 
 <div style="text-align: justify">
 
@@ -132,6 +146,7 @@ The dataset consists of ~100k orders from 2016 and 2018 that were made on the Ol
 
 <img src="images/olist.png?raw=true"/>
 </div>
+<details>
 
 
 
