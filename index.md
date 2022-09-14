@@ -108,7 +108,7 @@ Kalman Filters
  <details>
  
   <div style="text-align: justify">
-  The goal was to track the location (and velocity) of a moving object (ball) in a 3-dimensional space. Taking into account gravity that acts on the ball, the initial position and velocities are assumed to be known. We will be using noisy location estimates using a (simulated) sensor. The objective was therefore to estimate the true location (and velocity) of the ball in a 3D space
+  The goal was to track the location (and velocity) of a moving object (ball) in a 3-dimensional space. Taking into account gravity that acts on the ball, the initial position and velocities are assumed to be known. The algorithm is using noisy location estimates using a (simulated) sensor. The objective was therefore to estimate the true location (and velocity) of the ball in a 3D space.
   </div>
 
   <img src="images/kalman.png?raw=true"/>
@@ -131,7 +131,7 @@ Networking / Graphical Modelling
   <div style="text-align: justify">
   Active investing in the asset management industry aims to beat the stock market’s average returns, for which portfolio managers track a particular index and try to beat that index by creating their own portfolios.
 
-  Portfolio construction involves selection of stocks that have a higher probability of giving better returns in comparison to the tracking index, like S&P 500. In this project, we aimed to use the concept of Network Analysis to select a basket of stocks and create two portfolios. those portfolio will then be simulated by investing a certain amount, keeping the portfolio for an entire year, it will then be compared against the S&P 500 index.
+  Portfolio construction involves selection of stocks that have a higher probability of giving better returns in comparison to the tracking index, like S&P 500. In this project, the concept of Network Analysis is used to select a basket of stocks and create two portfolios. those portfolio are then being simulated by investing a certain amount, keeping the portfolio for an entire year, it will then be compared against the S&P 500 index.
 
 
   </div>
